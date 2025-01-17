@@ -15,4 +15,5 @@ Faça um texto para ebook, com foco em investimento de renda fixa, listando os p
 
 CHATBOX: Criação da imagem
 create an image modern about fixed income investment
-
+Link do ebook
+https://drive.google.com/drive/u/1/folders/1E8ph-JmUCC1QAii792tteU-pupbc8xiB
